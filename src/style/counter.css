@@ -1,0 +1,19 @@
+*{
+    background-color: grey;
+    color: white;
+}
+
+div.box{
+  display: flex;
+  width: 90%;
+  height: 200px;
+  margin: auto;
+}
+button{
+  width: 33.33%;
+  font-size: 100px;
+  outline: none !important;
+}
+img{
+  width: 50%;
+}
